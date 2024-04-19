@@ -1,20 +1,21 @@
 # K-File Ratter
+Basically just an batch file found from the metasploit forum and converted in python,
 ```
 ##########################################################################
 #                                                                        #
-#        K-Self Ratter - Sneaky Exe Joiner (Trojan Maker)               #
+#        K-File_Joiner  - Sneaky Exe Joiner (Trojan Maker)               #
 #                                                                        #
 #                                                                        #
 #                                  K$$hr                                 #
 #                                                                        #
-#        Whazzup with K-Self Ratter?                                    #
+#        Whazzup with K-File_Joiner?                                     #
 #                                                                        #
 # K-Self Ratter is all about joining files, like a ninja SFX.            #
 # The big deal here is that K-Self Ratter extracts files                 #
 # straight into the temp folder and makes them do the hustle.            #
 #                                                                        #
 #                                                                        #
-# Why use K-Self Ratter?                                                 #
+# Why use K-File Joiner?                                                 #
 #                                                                        #
 # To whip up a sweet Trojan Horse.                                      #
 # Imagine you got two files. First, a legit software ("game.exe")        #
@@ -24,7 +25,7 @@
 # first ("game.exe") and second ("backdoor.exe") files.                  #
 #                                                                        #
 #                                                                        #
-# How to roll with K-Self Ratter?                                        #
+# How to roll with K-File Joiner?                                        #
 #                                                                        #
 # Picture this: "game.exe" is the first file. Type "game.exe"            #
 # when K-Self Ratter asks you "1st file: "                                #
